@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(92, 163, 218);
+    font: normal 15pt Arial;
+    color: rgb(251, 250, 250);
+    text-align: center;
+}
+header{
+
+}
+div {
+    text-align: cente;
+    padding: 10px;   
+}
+section{
+    background-color: rgb(2, 6, 10);
+    border-radius: 5px; /*Arredondar bordas*/
+    color: rgb(249, 245, 245);
+    padding: 15px; /*Define o espaçamente entre o conteúdo e as bordas, pode padding(todos os lados) ou adcionar, top, left, rigth, bottom*/
+    width: 500px; /*Largura da section*/
+    margin: auto; /*Aumenta a margem da linha de código, pode ser auto(Center) ou colocar os pixels*/
+    box-shadow: 3px 3px 10px rgba(8, 8, 8, 0.652); /*5px: deslocamento "lateral", 6px: deslocamento "vertical", 10px: "''''''''''Espalhamento" */
+}
+footer{
+    
+    font-style: italic;
+}
