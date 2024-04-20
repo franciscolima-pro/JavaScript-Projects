@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: rgb(5, 5, 5);
+    color: rgba(71, 214, 138, 0.895);
+}
+section {
+    width: 500px;
+    box-shadow: 3px 3px 10px;
+    padding: 15px;
+    height: 450px;
+    background-color: rgba(71, 214, 138, 0.895);
+    margin: auto;
+    color: black;
+}
+#div2{
+    padding: 17px;
+    width : 510px;
+}
