@@ -10,3 +10,7 @@ document.getElementById('toggle').addEventListener('click', function() {
     icon.classList.remove('fa-sun');
   }
 });
+const walter = 37
+
+
+console.log(walter)
