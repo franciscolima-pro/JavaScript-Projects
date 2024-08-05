@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    background-color: hsl(212, 45%, 89%);
+    
+}
+section {
+    border: 1px;
+    border-radius: 15px;
+    text-align: center;
+    padding: 13px;
+    margin-top: 80px;
+    width: 20%;
+    height: 70vh;
+    background-color: white;
+    font-family: 'Outfit', serif;
+}
+img{
+    border-radius: 15px;
+}
+.attribution{
+    margin-top: 40px;
+}
