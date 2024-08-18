@@ -11,10 +11,11 @@ section{
     padding: 1.1rem;
     border-radius: 1rem;
     box-shadow: 0.4rem 0.4rem;
+    background-color: white;
     img{
         border-radius: 0.6rem;
     }
-    background-color: white;
+    
 }
 .avatar{
     display: flex;
@@ -35,4 +36,10 @@ button{
 }
 .gray{
     color: hsl(0, 0%, 42%);
+}
+a {
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(255, 0, 0);
 }
