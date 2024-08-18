@@ -98,3 +98,39 @@ body.dark-mode .prep{
 body.dark-mode .tds{
     border-bottom: 1px solid white;
 }
+img{
+    border-radius:15px;
+    width:600px;
+    height:300px;
+}
+@media (min-width: 300px){
+    .conteiner{
+        width: 500px;
+    }
+    img{
+    display: block;
+       border-radius:15px;
+       width: 280px;
+       height: 250px;
+    }
+}
+@media (min-width: 800px){
+
+    img{
+        display: block;
+        border-radius:15px;
+        width:600px;
+        height:300px;
+    }
+}
+@media (min-width: 850px){
+    .conteiner{
+        width: 600px;
+    }
+    img{
+        display: block;
+        border-radius:15px;
+        width:600px;
+        height:300px;
+    }
+}
